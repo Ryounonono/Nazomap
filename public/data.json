@@ -1,7 +1,26 @@
 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
+  "range": "'スポットデータ'!A1:J83",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "タイムスタンプ",
+      "カテゴリ",
+      "画像",
+      "緯度",
+      "経度",
+      "スポット名",
+      "紹介文",
+      "Instagram",
+      "Twitter",
+      "公式サイト"
+    ],
+    [
+      "",
+      "施設",
+      "https://ryounonono.github.io/Nazomap/LINE_ALBUM_素材_211017_18.jpg",
+      "35.61374",
+      "139.66175",
+      "図書館"
+    ]
+  ]
 }
